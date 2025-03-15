@@ -1,5 +1,9 @@
 IMDB Tableau Dashboard
 
+![Uploading image.png…]()
+
+
+
 Overview
 This repository contains an interactive Tableau dashboard that provides insights into IMDB movie data. The dashboard includes visualizations and analyses on various aspects such as ratings, genres, release years, and more.
 Dashboard Link:    https://public.tableau.com/views/IMDB_17420345176140/IMDB?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
