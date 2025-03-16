@@ -1,7 +1,6 @@
 IMDB Tableau Dashboard
 
-![Uploading image.png…]()
-
+https://github.com/VigneshMahareddy/IMDB_Tableau/blob/main/DASHBOARD.png?raw=true
 
 
 Overview
